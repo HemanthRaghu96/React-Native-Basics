@@ -28,6 +28,7 @@ export default function ElivatedCard() {
 
 const styles = StyleSheet.create({
   headingText: {
+     color:'#000000',
     fontSize: 30,
     fontWeight: 'bold',
     paddingHorizontal: 10,
