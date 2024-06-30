@@ -15,8 +15,8 @@ export default function FancyCard() {
         <Text style={styles.titleText}>JavaScript</Text>
         <Text style={styles.descText}>
           JavaScript, often abbreviated as JS, is a programming language and
-          core technology of the Web, alongside HTML and CSS.Web browsers
-          have a dedicated JavaScript engine that executes the client code.
+          core technology of the Web, alongside HTML and CSS.Web browsers have a
+          dedicated JavaScript engine that executes the client code.
         </Text>
         <Text style={styles.footerText}>Posted 12 min ago</Text>
       </View>
