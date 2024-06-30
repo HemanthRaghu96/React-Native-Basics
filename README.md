@@ -1,3 +1,12 @@
+# React-Native Basics Learning
+
+Created FlatCard, ElivatedCard, FancyCard, ActionCard, and ContactCard using react-native, images are shown below,
+
+![Screenshot 2024-06-30 143242](https://github.com/HemanthRaghu96/React-Native-Basics/assets/91587889/c7fad069-44c8-4e3a-95a8-7833beb7a7bb)
+
+![Screenshot 2024-06-30 143254](https://github.com/HemanthRaghu96/React-Native-Basics/assets/91587889/a7d91787-057f-4b57-b3f4-49e530b6ff86)
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
